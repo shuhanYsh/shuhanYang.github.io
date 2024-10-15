@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : linkedin.com/in/shuhan-yang-0601
+  linkedin         : shuhan-yang-0601
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -219,7 +219,7 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: false
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
