@@ -9,20 +9,26 @@ redirect_from:
 I am a highly motivated candidate with a solid foundation in statistics and data science. I recently earned my Master of Science in Business Analytics from the University of Washington, following a Bachelor's degree in Statistics from the University of British Columbia. My research interests include data mining, statistical learning, machine learning, and data-driven decision-making. I am actively applying for PhD programs for Fall 2025 and look forward to deepening my expertise in these areas.
 
 
-A data-driven personal website
+Skills
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+•	Tools: Python (NumPy, Pandas, PyTorch, and scikit-learn, etc.), SQL, R, Tableau, Power BI, Excel, Java, C++, NVivo
+•	Interests and Core Competencies: Data Mining, Statistical Modeling, Casual Inference, Regression and Classification Analysis, Machine Learning, Large Language Models, Natural Language Processing, Big Data
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+[1] **Yang, S.** (2024). “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery 2024</i>.**(IEEE, Accepted)**
+[2] Shan, H., Bai, D., Li, Y., Shi, J., & **Yang, S.**, (2023). “Supply chain partnership and innovation performance of manufacturing firms: Mediating effect of knowledge sharing and moderating effect of knowledge distance”, Journal of Innovation & Knowledge, 8(4). (SSCI, JCR Q1)
+[3] Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & Yang, S.,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, Applied Economics, 55(60):7079-7093 (SSCI, JCR Q2)
+[4] Shan, H., Fan, X., Long, S., Yang, X., & Yang, S., (2022). “An Optimization Design Method of Express Delivery Service Based on Quantitative Kano Model and Fuzzy QFD Model”, Discrete Dynamics in Nature and Society,2022(4):1-18.(SCI, JCR Q2)
+
+
+
+Skills
+======
+•	Tools: Python (NumPy, Pandas, PyTorch, and scikit-learn, etc.), SQL, R, Tableau, Power BI, Excel, Java, C++, NVivo
+•	Interests and Core Competencies: Data Mining, Statistical Modeling, Casual Inference, Regression and Classification Analysis, Machine Learning, Large Language Models, Natural Language Processing, Big Data
 
 Site-wide configuration
 ------
