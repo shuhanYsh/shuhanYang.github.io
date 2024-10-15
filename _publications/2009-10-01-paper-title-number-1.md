@@ -6,10 +6,10 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
-Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & Yang, S.,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics</i>, 55(60):7079-7093 (SSCI, JCR Q2)
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & Yang, S.,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics</i>, 55(60):7079-7093'
+
 
 ---
 
