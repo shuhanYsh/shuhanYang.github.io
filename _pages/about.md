@@ -6,29 +6,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a highly motivated candidate with a solid foundation in statistics and data science. I recently earned my [Master of Science in Business Analytics](https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/) from the [University of Washington](https://www.washington.edu/), following a Bachelor's degree in [Statistics](https://www.stat.ubc.ca/) from the [University of British Columbia](https://www.ubc.ca/). My research interests include data mining, statistical learning, machine learning, and data-driven decision-making. I am actively applying for PhD programs for Fall 2025 and look forward to deepening my expertise in these areas.
+I am a highly motivated candidate with a solid foundation in statistics and data science. I recently earned my [Master of Science in Business Analytics](https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/) from the [University of Washington](https://www.washington.edu/), following a Bachelor's degree in [Statistics](https://www.stat.ubc.ca/) from the [University of British Columbia](https://www.ubc.ca/). 
 
-
-Skills
-======
-•	Tools: Python (NumPy, Pandas, PyTorch, and scikit-learn, etc.), SQL, R, Tableau, Power BI, Excel, Java, C++, NVivo   
-•	Interests and Core Competencies: Data Mining, Statistical Modeling, Casual Inference, Regression and Classification Analysis, Machine Learning, Large Language Models, Natural Language Processing, Big Data
+My research interests include data mining, statistical learning, machine learning, and data-driven decision-making. I am actively applying for PhD programs for Fall 2025 and look forward to deepening my expertise in these areas.
 
 
 Publications
 ======
 
 [1] **Yang, S.** (2024). “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery 2024</i>.**(IEEE, Accepted)**   
-[2] Shan, H., Bai, D., Li, Y., Shi, J., & **Yang, S.**, (2023). “Supply chain partnership and innovation performance of manufacturing firms: Mediating effect of knowledge sharing and moderating effect of knowledge distance”, Journal of Innovation & Knowledge, 8(4). (SSCI, JCR Q1)
-[3] Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & Yang, S.,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, Applied Economics, 55(60):7079-7093 (SSCI, JCR Q2)
-[4] Shan, H., Fan, X., Long, S., Yang, X., & Yang, S., (2022). “An Optimization Design Method of Express Delivery Service Based on Quantitative Kano Model and Fuzzy QFD Model”, Discrete Dynamics in Nature and Society,2022(4):1-18.(SCI, JCR Q2)
+[2] Shan, H., Bai, D., Li, Y., Shi, J., & **Yang, S.**, (2023). “Supply chain partnership and innovation performance of manufacturing firms: Mediating effect of knowledge sharing and moderating effect of knowledge distance”, <i>Journal of Innovation & Knowledge</i>, 8(4). **(SSCI, JCR Q1)**  
+[3] Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & **Yang, S.**,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics</i>, 55(60):7079-7093 **(SSCI, JCR Q2)**  
+[4] Shan, H., Fan, X., Long, S., Yang, X., & **Yang, S.**, (2022). “An Optimization Design Method of Express Delivery Service Based on Quantitative Kano Model and Fuzzy QFD Model”, <i>Discrete Dynamics in Nature and Society</i>,2022(4):1-18.  **(SCI, JCR Q2)** 
 
 
 
 Skills
 ======
 •	Tools: Python (NumPy, Pandas, PyTorch, and scikit-learn, etc.), SQL, R, Tableau, Power BI, Excel, Java, C++, NVivo
-•	Interests and Core Competencies: Data Mining, Statistical Modeling, Casual Inference, Regression and Classification Analysis, Machine Learning, Large Language Models, Natural Language Processing, Big Data
+•	Core Competencies: Data Mining, Statistical Modeling, Casual Inference, Regression and Classification Analysis, Machine Learning, Large Language Models, Natural Language Processing, Big Data
 
 Site-wide configuration
 ------
