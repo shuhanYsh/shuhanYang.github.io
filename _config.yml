@@ -219,10 +219,10 @@ collections:
     permalink: /:collection/:path/
   portfolio:
     output: false
-    #permalink: /:collection/:path/
- # talks:
-  #  output: false
-  #  permalink: /:collection/:path/
+    permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -272,14 +272,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  #- scope:
-   #   path: ""
-   #   type: talks
-   # values:
-   #   layout: talk
-    #  author_profile: false
-   #   share: false
+   _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: false
 
 
 # Sass/SCSS
