@@ -1,6 +1,6 @@
 ---
-#title: "Paper Title Number 1"
-#collection: publications
+title: "A"
+collection: publications
 #category: manuscripts
 excerpt: 'Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & **Yang, S.**,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics</i>, 55(60):7079-7093'
 permalink: https://www.tandfonline.com/doi/abs/10.1080/00036846.2023.2186354
