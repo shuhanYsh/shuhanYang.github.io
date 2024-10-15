@@ -28,7 +28,7 @@ author:
   location         : "Seattle, WA"
   employer         : "University of Washington"
   uri              : # URL
-  email            : shuhan1110y@gmail.com
+  email            : "shuhan1110y@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -251,9 +251,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -278,8 +278,8 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 
 # Sass/SCSS
