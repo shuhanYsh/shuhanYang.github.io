@@ -10,14 +10,9 @@ I am a highly motivated candidate with a solid foundation in statistics and data
 
 My research interests focus on data mining, statistical modeling, machine learning, and their applications in data-driven decision-making. Currently, I am actively applying for PhD programs for Fall 2025 and look forward to deepening my expertise in these areas.
 
-
-Preprint and Submitted
-======
-•	**Yang, S.** (2024). “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery 2024</i>. **(IEEE)**  
-
-
 Publications
 ======
+•	**Yang, S.** (2024). “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery: Proc. IEEE ICNC-FSKD 2024. </i>. **(Accepted)**  
  
 • Shan, H., Bai, D., Li, Y., Shi, J., & **Yang, S.**, (2023). “Supply chain partnership and innovation performance of manufacturing firms: Mediating effect of knowledge sharing and moderating effect of knowledge distance”, <i>Journal of Innovation & Knowledge</i>, 8(4). **(SSCI)**  [paper](https://www.sciencedirect.com/science/article/pii/S2444569X23001270) 
 
