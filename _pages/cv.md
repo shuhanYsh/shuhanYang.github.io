@@ -21,9 +21,9 @@ Research experience
 Work experience
 ======
 * **Surrey School District**, Research and Evaluation Department               
-  * <i>Research Analyst</i>, Supervised by Dr. Matthew Waugh  
-  * Duties included: Led 4 data-driven research projects for the performance evaluation of educational programs. 
-  Outputs:
+<i>Research Analyst</i>, Supervised by Dr. Matthew Waugh  
+Duties included: Led 4 data-driven research projects for the performance evaluation of educational programs. 
+Outputs:
   * **Yang, S.**, Waugh, M., Huang, M., & Karout, A. (2022). Evaluation of the Surrey School District Check and Connect Program®. Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/medialib/evaluation-of-the-check-and-connect-program-report-2022.5f4ccc139201.pdf)  
   * **Yang, S.**, Waugh, M., & Huang, M. (2022). Survey of the French Immersion Program – Surrey School District. Surrey, Canada: School District #36.
   * Giroux, M., **Yang, S.**, & Waugh, M. (2022). Social and Emotional Learning at Walnut Road Elementary: An Evaluation of the Second Step® Program. Surrey, Canada: School District #36. link
