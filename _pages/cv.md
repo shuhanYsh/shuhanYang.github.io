@@ -11,16 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Business Analytics, University of Washington, 2024
+* B.S. in Statistics, University of British Columbia, 2023
+
+Research experience
+======
+* 
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Surrey School District**, Research and Evaluation Department               
+  * <i>Research Analyst</i>, Supervised by Dr. Matthew Waugh  
+  * Duties included: Led 4 data-driven research projects for the performance evaluation of educational programs. 
+  Outputs:
+  * Giroux, M., **Yang, S.**, & Waugh, M. (2022). Social and Emotional Learning at Walnut Road Elementary: An Evaluation of the Second Step® Program. Surrey, Canada: School District #36. link
+  * Giroux, M., **Yang, S.**, Huang, M., & Waugh, M. (2022). <i>Surrey School District’s Social and Emotional Learning Lead Initiative: 2021/2022 Report</i>. Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/fgg/5/SEL%20Lead%20Initiative%20Report%202021-2022.pdf)   
+[7] Yang, S., Waugh, M., & Huang, M. (2022). Survey of the French Immersion Program – Surrey School District. Surrey, Canada: School District #36.
+[8] Yang, S., Waugh, M., Huang, M., & Karout, A. (2022). Evaluation of the Surrey School District Check and Connect Program®. Surrey, Canada: School District #36.
+![image](https://github.com/user-attachments/assets/9e8161ea-8b45-4517-9c25-a69be380e1f2)
+
 
 * Fall 2015: Research Assistant
   * Github University
