@@ -16,6 +16,12 @@ Education
 
 Research experience
 ======
+* **Market Segmentation for First Bank USA One**
+University of Washington, <i>Supervised by Prof.Russell Walker</i>  
+Nov 2023 – Jul 2024, Seattle, WA, USA   
+**Outputs:**   
+  **Yang, S**, “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery: Proc. IEEE ICNC-FSKD 2024.</i> (Accepted)
+
 * **Causal Inference Analysis of a Data Automation Tool on Product Sales**  
 University of Washington-MSBA Capstone Lab, <i>Supervised by Prof.Russell Walker</i>  
 Mar 2024 – May 2024, Seattle, WA, USA   
@@ -27,7 +33,10 @@ May 2022 – Aug 2022, Xi'an, Shaanxi, China
 * **Empirical Studies in Supply Chain and Operational Management**  
 University of Cincinnati, <i>Supervised by Prof.Shi Jing</i>   
 Sep 2020 – Aug 2021, Cincinnati, OH, USA   
-
+**Outputs:**
+  * Shan, H., Bai, D., Li, Y., Shi, J., & **Yang, S.**, (2023). “Supply chain partnership and innovation performance of manufacturing firms: Mediating effect of knowledge sharing and moderating effect of knowledge distance”, <i>Journal of Innovation & Knowledge, 8(4).</i> (SSCI, JCR Q1) [paper](https://www.sciencedirect.com/science/article/pii/S2444569X23001270)
+  * Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & **Yang, S.**,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics, 55(60):7079-7093.</i> (SSCI, JCR Q2) [paper](https://www.tandfonline.com/doi/abs/10.1080/00036846.2023.2186354)
+  * Shan, H., Fan, X., Long, S., Yang, X., & **Yang, S.**, (2022). “An Optimization Design Method of Express Delivery Service Based on Quantitative Kano Model and Fuzzy QFD Model”, <i>Discrete Dynamics in Nature and Society,2022(4):1-18.</i>(SCI, JCR Q2) [paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/5945908)
 
 Work experience
 ======
