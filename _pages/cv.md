@@ -21,7 +21,7 @@ University of Washington, <i>Supervised by Prof.Russell Walker</i>
 Nov 2023 – Jul 2024, Seattle, WA, USA   
 **Outputs:**   
   * **Yang, S**, “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery: Proc. IEEE ICNC-FSKD 2024.</i> (Accepted)
-  * Visualization Dashboards: [[1]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/FIrstBankUSA/CustomerOverview),[[2]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/CustomerProfiles-Demographic/CustomerDemographicProfile?publish=yes), [[3]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/CustomerProfiles-Financial/CustomerFinancial?publish=yes)
+  * Visualization Dashboards: [[Overview]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/FIrstBankUSA/CustomerOverview),[[Demographic Profiles]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/CustomerProfiles-Demographic/CustomerDemographicProfile?publish=yes), [[Financial Profiles]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/CustomerProfiles-Financial/CustomerFinancial?publish=yes)
   
 * **Causal Inference Analysis of a Data Automation Tool on Product Sales**  
 University of Washington-MSBA Capstone Lab, <i>Supervised by Prof.Russell Walker</i>  
