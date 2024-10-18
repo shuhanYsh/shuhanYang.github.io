@@ -16,15 +16,19 @@ Education
 
 Research experience
 ======
-* 
+* **Causal Inference Analysis of a Data Automation Tool on Product Sales**
+University of Washington-MSBA Capstone Lab, Supervised by Prof.Russell Walker
+Mar 2024 – May 2024, Seattle, WA, USA
+
+
+
 
 Work experience
 ======
 * **Surrey School District**, Research and Evaluation Department
 <i>Research Analyst</i>, Supervised by Dr. Matthew Waugh
 Sep 2021 – May 2022, Surrey, BC, Canada
-
-Led 4 data-driven research projects for the performance evaluation of educational programs. 
+Led 4 data-driven research projects for the performance evaluation of educational programs.   
 **Outputs:**
   * **Yang, S.**, Waugh, M., Huang, M., & Karout, A. (2022). <i>Evaluation of the Surrey School District Check and Connect Program®.</i> Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/medialib/evaluation-of-the-check-and-connect-program-report-2022.5f4ccc139201.pdf)  
   * **Yang, S.**, Waugh, M., & Huang, M. (2022). <i>Survey of the French Immersion Program – Surrey School District.</i> Surrey, Canada: School District #36.
