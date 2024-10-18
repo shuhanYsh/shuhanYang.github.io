@@ -20,7 +20,7 @@ Research experience
 University of Washington, <i>Supervised by Prof.Russell Walker</i>  
 Nov 2023 – Jul 2024, Seattle, WA, USA   
 **Outputs:**   
-  **Yang, S**, “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery: Proc. IEEE ICNC-FSKD 2024.</i> (Accepted)
+  * **Yang, S**, “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery: Proc. IEEE ICNC-FSKD 2024.</i> (Accepted)
 
 * **Causal Inference Analysis of a Data Automation Tool on Product Sales**  
 University of Washington-MSBA Capstone Lab, <i>Supervised by Prof.Russell Walker</i>  
@@ -53,31 +53,21 @@ Led 4 data-driven research projects for the performance evaluation of educationa
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Python (Pandas, PyTorch, SciPy, and scikit-learn, etc.)
+* R/RStudio
+* SQL
+* Data Visualization: Tableau, Power BI
+* Excel  
+* Java  
+* C++ 
+* NVivo
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Data Mining Approach for Market Segmentation and Profiling**    
+The 20th International Conference on Natural Computation, Fuzzy Systems, and Knowledge Discovery <i>ICNC-FSKD 2024</i>   
+Jul 2024, Guangzhou, China 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* University of Washington MSBA 2024 Social Committee
