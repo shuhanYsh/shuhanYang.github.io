@@ -16,17 +16,17 @@ Education
 
 Research experience
 ======
-* **Causal Inference Analysis of a Data Automation Tool on Product Sales**
-University of Washington-MSBA Capstone Lab, <i>Supervised by Prof.Russell Walker</i>
-Mar 2024 – May 2024, Seattle, WA, USA
+* **Causal Inference Analysis of a Data Automation Tool on Product Sales**  
+University of Washington-MSBA Capstone Lab, <i>Supervised by Prof.Russell Walker</i>  
+Mar 2024 – May 2024, Seattle, WA, USA   
 
-* **Anomaly Detection with Auto-Encoders**	                                                                        
-Xi’an Jiao Tong University, <i>Supervised by Prof.Lin Jun</i>
-May 2022 – Aug 2022, Xi'an, Shaanxi, China
+* **Anomaly Detection with Auto-Encoders**	                                                                          
+Xi’an Jiao Tong University, <i>Supervised by Prof.Lin Jun</i>  
+May 2022 – Aug 2022, Xi'an, Shaanxi, China   
 
-* **Empirical Studies in Supply Chain and Operational Management**
-University of Cincinnati, <i>Supervised by Prof.Shi Jing</i>
-Sep 2020 – Aug 2021, Cincinnati, OH, USA
+* **Empirical Studies in Supply Chain and Operational Management**  
+University of Cincinnati, <i>Supervised by Prof.Shi Jing</i>   
+Sep 2020 – Aug 2021, Cincinnati, OH, USA   
 
 
 Work experience
