@@ -20,14 +20,17 @@ Research experience
 
 Work experience
 ======
-* **Surrey School District**, Research and Evaluation Department               
-<i>Research Analyst</i>, Supervised by Dr. Matthew Waugh  
-Duties included: Led 4 data-driven research projects for the performance evaluation of educational programs. 
-Outputs:
-  * **Yang, S.**, Waugh, M., Huang, M., & Karout, A. (2022). Evaluation of the Surrey School District Check and Connect Program®. Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/medialib/evaluation-of-the-check-and-connect-program-report-2022.5f4ccc139201.pdf)  
-  * **Yang, S.**, Waugh, M., & Huang, M. (2022). Survey of the French Immersion Program – Surrey School District. Surrey, Canada: School District #36.
-  * Giroux, M., **Yang, S.**, & Waugh, M. (2022). Social and Emotional Learning at Walnut Road Elementary: An Evaluation of the Second Step® Program. Surrey, Canada: School District #36. link
+* **Surrey School District**, Research and Evaluation Department
+<i>Research Analyst</i>, Supervised by Dr. Matthew Waugh
+Sep 2021 – May 2022, Surrey, BC, Canada
+
+Led 4 data-driven research projects for the performance evaluation of educational programs. 
+**Outputs:**
+  * **Yang, S.**, Waugh, M., Huang, M., & Karout, A. (2022). <i>Evaluation of the Surrey School District Check and Connect Program®.</i> Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/medialib/evaluation-of-the-check-and-connect-program-report-2022.5f4ccc139201.pdf)  
+  * **Yang, S.**, Waugh, M., & Huang, M. (2022). <i>Survey of the French Immersion Program – Surrey School District.</i> Surrey, Canada: School District #36.
   * Giroux, M., **Yang, S.**, Huang, M., & Waugh, M. (2022). <i>Surrey School District’s Social and Emotional Learning Lead Initiative: 2021/2022 Report</i>. Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/fgg/5/SEL%20Lead%20Initiative%20Report%202021-2022.pdf)   
+  * Giroux, M., **Yang, S.**, & Waugh, M. (2022). <i>Social and Emotional Learning at Walnut Road Elementary: An Evaluation of the Second Step® Program.</i> Surrey, Canada: School District #36. 
+  
   
 
 
