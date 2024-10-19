@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a highly motivated candidate with a solid foundation in statistics and data science. I recently earned my [Master of Science in Business Analytics](https://foster.uw.edu/academics/degree-programs/master-science-business-analytics/) from the [University of Washington](https://www.washington.edu/), following a Bachelor's degree in [Statistics](https://www.stat.ubc.ca/) from the [University of British Columbia](https://www.ubc.ca/). 
 
-My research interests focus on data mining, statistical modeling, machine learning, and their applications in data-driven decision-making. Currently, I am actively applying for PhD programs for Fall 2025 and look forward to deepening my expertise in these areas.
+My **research interests** focus on data mining, statistical modeling, machine learning, and their applications in data-driven decision-making. Currently, I am actively applying for PhD programs for Fall 2025 and look forward to deepening my expertise in these areas.
 
 Publications
 ======
@@ -23,13 +23,7 @@ Publications
 
 Conference Presentation
 ======
-• Data Mining Approach for Market Segmentation and Profiling  
-    <i>The 20th International Conference on Natural Computation, Fuzzy Systems, and Knowledge Discovery, July 2024.</i>
-
-
-
-Skills
-======
-•	Tools: Python (NumPy, Pandas, PyTorch, and scikit-learn, etc.), R, SQL, Tableau, Java, C++, NVivo
-•	Core Competencies: Data Mining, Statistical Modeling, Casual Inference, Regression and multivariate methods, Machine Learning
+**Data Mining Approach for Market Segmentation and Profiling**    
+The 20th International Conference on Natural Computation, Fuzzy Systems, and Knowledge Discovery <i>ICNC-FSKD 2024</i>   
+Jul 2024, Guangzhou, China 
 
