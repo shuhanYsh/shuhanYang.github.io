@@ -39,6 +39,8 @@ Sep 2020 – Aug 2021, Cincinnati, OH, USA
   * Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & **Yang, S.**,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics, 55(60):7079-7093.</i> (SSCI, JCR Q2) [paper](https://www.tandfonline.com/doi/abs/10.1080/00036846.2023.2186354)
   * Shan, H., Fan, X., Long, S., Yang, X., & **Yang, S.**, (2022). “An Optimization Design Method of Express Delivery Service Based on Quantitative Kano Model and Fuzzy QFD Model”, <i>Discrete Dynamics in Nature and Society,2022(4):1-18.</i>(SCI, JCR Q2) [paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/5945908)
 
+<i>Updated on Jul 2024.</i>
+
 Work experience
 ======
 * **Surrey School District**, Research and Evaluation Department   
