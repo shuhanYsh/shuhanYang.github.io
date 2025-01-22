@@ -64,6 +64,12 @@ Talks
 **Data Mining Approach for Market Segmentation and Profiling**    
 The 20th International Conference on Natural Computation, Fuzzy Systems, and Knowledge Discovery <i>ICNC-FSKD 2024</i>   
 Jul 2024, Guangzhou, China 
+
+HONORS AND AWARDS
+======
+•	**UBC Dean’s List Award** (2022-2023)
+•	**UBC Science Co-operative Education Program Certification** (2023)
+•	**Charleston and Sherley Wang Scholarship** (2018)
   
 Service and leadership
 ======
