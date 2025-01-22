@@ -11,27 +11,27 @@ redirect_from:
 
 Education
 ======
-* M.S. in Business Analytics, University of Washington, 2024
-* B.S. in Statistics, University of British Columbia, 2023
+* **University of Washington**, M.S. in Business Analytics, 2024
+* **University of British Columbia**, B.S. in Statistics, 2023
 
 Research experience
 ======
-* **Market Segmentation for First Bank USA One**
-University of Washington, <i>Supervised by Prof.Russell Walker</i>  
+* **Market Segmentation Model Development**  
+University of Washington, <i>Independent Research</i>  
 Nov 2023 – Jul 2024, Seattle, WA, USA   
 **Outputs:**   
   * **Yang, S**, “Market Segmentation and Profiling Based on Customer Lifetime Value using Data Mining Techniques”, <i>Advances in Natural Computation, Fuzzy Systems and Knowledge Discovery: Proc. IEEE ICNC-FSKD 2024.</i> (Accepted)
   * Visualization Dashboards: [[Overview]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/FIrstBankUSA/CustomerOverview),[[Demographic Profiles]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/CustomerProfiles-Demographic/CustomerDemographicProfile?publish=yes), [[Financial Profiles]](https://public.tableau.com/app/profile/shuhan.yang6417/viz/CustomerProfiles-Financial/CustomerFinancial?publish=yes)
   
-* **Causal Inference Analysis of a Data Automation Tool on Product Sales**  
-University of Washington-MSBA Capstone Lab, <i>Supervised by Prof.Russell Walker</i>  
+* **Causal Inference in Sales Cycles**  
+Salesforce & University of Washington, <i>Supervised by Prof.Russell Walker</i>  
 Mar 2024 – May 2024, Seattle, WA, USA   
 
 * **Anomaly Detection with Auto-Encoders**	                                                                          
 Xi’an Jiao Tong University, <i>Supervised by Prof.Lin Jun</i>  
 May 2022 – Aug 2022, Xi'an, Shaanxi, China   
 
-* **Empirical Studies in Supply Chain and Operational Management**  
+* **Empirical Studies in Supply Chain Management**  
 University of Cincinnati, <i>Supervised by Prof.Shi Jing</i>   
 Sep 2020 – Aug 2021, Cincinnati, OH, USA   
 **Outputs:**
@@ -44,9 +44,9 @@ Sep 2020 – Aug 2021, Cincinnati, OH, USA
 Work experience
 ======
 * **Surrey School District**, Research and Evaluation Department   
-<i>Research Analyst</i>, Supervised by Dr. Matthew Waugh  
+<i>Research Analyst</i>, Supervised by Dr. Matthew Waugh
 Sep 2021 – May 2022, Surrey, BC, Canada  
-Led 4 data-driven research projects for the performance evaluation of educational programs.   
+Led data-driven research projects for educational program evaluations.   
 **Outputs:**
   * **Yang, S.**, Waugh, M., Huang, M., & Karout, A. (2022). <i>Evaluation of the Surrey School District Check and Connect Program®.</i> Surrey, Canada: School District #36. [link](https://media.surreyschools.ca/media/Default/medialib/evaluation-of-the-check-and-connect-program-report-2022.5f4ccc139201.pdf)  
   * **Yang, S.**, Waugh, M., & Huang, M. (2022). <i>Survey of the French Immersion Program – Surrey School District.</i> Surrey, Canada: School District #36.
