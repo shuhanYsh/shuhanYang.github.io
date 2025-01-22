@@ -36,7 +36,7 @@ University of Cincinnati, <i>Supervised by Prof.Shi Jing</i>
 Sep 2020 – Aug 2021, Cincinnati, OH, USA   
 **Outputs:**
   * Shan, H., Bai, D., Li, Y., Shi, J., & **Yang, S.**, (2023). “Supply chain partnership and innovation performance of manufacturing firms: Mediating effect of knowledge sharing and moderating effect of knowledge distance”, <i>Journal of Innovation & Knowledge, 8(4).</i> (SSCI, JCR Q1) [paper](https://www.sciencedirect.com/science/article/pii/S2444569X23001270)
-  * Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & **Yang, S.**,(2023). “Enabling roles of integration and resilience for sustainable supply Chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics, 55(60):7079-7093.</i> (SSCI, JCR Q2) [paper](https://www.tandfonline.com/doi/abs/10.1080/00036846.2023.2186354)
+  * Shan,H., Bai, D., Fan, X., Shi, J., Li, Y., & **Yang, S.**,(2023). “Enabling roles of integration and resilience for sustainable supply chain performance: an empirical study on China’s E-commerce platforms”, <i>Applied Economics, 55(60):7079-7093.</i> (SSCI, JCR Q2) [paper](https://www.tandfonline.com/doi/abs/10.1080/00036846.2023.2186354)
   * Shan, H., Fan, X., Long, S., Yang, X., & **Yang, S.**, (2022). “An Optimization Design Method of Express Delivery Service Based on Quantitative Kano Model and Fuzzy QFD Model”, <i>Discrete Dynamics in Nature and Society,2022(4):1-18.</i>(SCI, JCR Q2) [paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2022/5945908)
 
 <i>Updated on Jul 2024.</i>
@@ -73,4 +73,6 @@ Jul 2024, Guangzhou, China
   
 Service and leadership
 ======
-* University of Washington MSBA 2024 Social Committee
+* **Social Committee Member**, <i>UW Foster School of Business</i> (2023-2024)
+* **Chinese Tutor**, <i>UBC Department of Asian Studies</i> (2018-2019)
+* **Teaching Assistant**, <i>Sycamore High School Chinese Program</i> (2016-2018)
