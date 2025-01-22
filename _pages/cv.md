@@ -61,9 +61,8 @@ Skills
   
 Talks
 ======
-**Data Mining Approach for Market Segmentation and Profiling**    
-The 20th International Conference on Natural Computation, Fuzzy Systems, and Knowledge Discovery <i>ICNC-FSKD 2024</i>   
-Jul 2024, Guangzhou, China 
+**Data Mining Approach for Market Segmentation and Profiling**，Jul 2024, Guangzhou, China  
+The 20th International Conference on Natural Computation, Fuzzy Systems, and Knowledge Discovery  
 
 HONORS AND AWARDS
 ======
